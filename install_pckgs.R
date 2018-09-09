@@ -1,0 +1,7 @@
+chooseCRANmirror(ind= 1)
+install.packages("shiny")
+install.packages("shinyBS")
+install.packages("shinydashboard")
+install.packages("shinydashboardPlus")
+install.packages("shinyjs")
+install.packages("stringr")
