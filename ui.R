@@ -26,7 +26,7 @@
                 div(class="center",
                 box(title = " Übungsaufgabe", 
                     uiOutput("ex_question"), 
-                    div(actionBttn("solve","Lösen" ), class="flush-right aligne-right right"),
+                    div(actionButton("solve","Lösen" ), class="flush-right aligne-right right"),
                     bsAlert("answered")
                     
                 )
